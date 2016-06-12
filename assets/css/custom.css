@@ -1,0 +1,13 @@
+/* Add here all your css styles (customizations) */
+
+@media (max-width: 768px) {
+	.tp-caption.NotGeneric-Title.LargeTitle {
+		display: none;
+	}
+}
+
+@media (min-width: 769px) {
+	.tp-caption.NotGeneric-Title.SmallTitle {
+		display: none;
+	}
+}
