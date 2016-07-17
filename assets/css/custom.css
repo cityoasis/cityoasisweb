@@ -11,3 +11,9 @@
 		display: none;
 	}
 }
+
+ @media(min-width: 992px) {
+    .one-page-header.navbar {
+		padding: 3px 0;
+	}
+}
