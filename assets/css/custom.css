@@ -12,8 +12,13 @@
 	}
 }
 
- @media(min-width: 992px) {
+@media(min-width: 992px) {
     .one-page-header.navbar {
 		padding: 3px 0;
 	}
+}
+
+.testimonials-bs .carousel-control-v2 i:hover {
+  color: #e74c3c;
+  border-color: #e74c3c;
 }
