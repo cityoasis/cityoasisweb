@@ -234,7 +234,7 @@ a:hover {
 
 @media(min-width: 992px) {
   .one-page-header.navbar {
-    padding: 12px 0;
+    padding: 3px 0;
     -webkit-transition: background .3s ease-in-out,padding .3s ease-in-out;
     -moz-transition: background .3s ease-in-out,padding .3s ease-in-out;
     transition: background .3s ease-in-out,padding .3s ease-in-out;
